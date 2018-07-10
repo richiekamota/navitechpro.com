@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'navitechpro');
+define('DB_NAME', '');
 
 /** MySQL database username */
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'radio');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -92,5 +92,5 @@ define('FS_METHOD', 'direct');
 define( 'WP_SITEURL', 'http://localhost/navitechpro.com' );
 define( 'WP_HOME', 'http://localhost/navitechpro.com' );
 define( 'WPMS_ON', true );
-define( 'WPMS_SMTP_PASS', 'RTKtapiwa30' );
+define( 'WPMS_SMTP_PASS', '' );
 define('WP_HTTP_BLOCK_EXTERNAL', false);
